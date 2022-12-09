@@ -1,2 +1,2 @@
-# GameUp-Challenge-5-Assignment
-The project files of GameUp Africa Challenge 5 Assignment 
+# Quick Click Game
+The project files of my Quick Click game made in Unity
